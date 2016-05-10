@@ -1,2 +1,2 @@
 # Codeforces
-Various Codeforces challenges
+Various Codeforces challenges from codeforces.com
