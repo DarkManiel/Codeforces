@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  Exercise5_midnight
-//
-//  Created by mark daniel on 2/23/16.
-//  Copyright © 2016 com.rentrshare.tigernadodemo. All rights reserved.
-//
-
 #include <iostream>
 #include <utility>
 #include <math.h>
